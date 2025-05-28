@@ -5,5 +5,5 @@ Estrutura do projeto;
  - Layout.py
     Contém funções separadas para organização do layout visual, estilo personalizado e componentes reutilizáveis (como seleção de moedas, gráficos e cards de preço).
 
- - Data.py (ou função de coleta de dados)
-    Função dentro de main.py responsável por buscar o histórico de preços das criptomoedas via API do CoinGecko. Utiliza cache e controle de tentativa para evitar bloqueios por excesso de requisições.
+ - Data.py
+    Responsável por buscar o histórico de preços das criptomoedas via API do CoinGecko. Utiliza cache e controle de tentativa para evitar bloqueios por excesso de requisições.
