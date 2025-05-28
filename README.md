@@ -42,7 +42,7 @@ Os dados de preços e mercado das criptomoedas são obtidos através da **CoinGe
 # Comparativo de preços e variações das criptos escolhidas
 ![Dash Comparativo Solana e Bitocin Cash](https://github.com/user-attachments/assets/444a951a-8eb1-467a-8a96-de91eec0322e)
 
-# Dashboard da Clandestick
+# Dashboard da Clandestick da cripto escolhida (Bitcoin)
 ![Dash Clandestick](https://github.com/user-attachments/assets/79662bc0-7028-4386-ab3e-8fc335d48b6e)
 
 
