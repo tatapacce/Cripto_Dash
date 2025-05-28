@@ -1,7 +1,7 @@
 # Dash cripto
 
 
-##Estrutura do projeto;
+## Estrutura do projeto;
  - Main.py
     Arquivo principal que executa o dashboard com Streamlit. Controla a interface, carrega dados via API e renderiza os gráficos de preços.
 
