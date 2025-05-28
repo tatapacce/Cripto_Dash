@@ -39,9 +39,10 @@ Os dados de preços e mercado das criptomoedas são obtidos através da **CoinGe
 # Preço atual e variação da Cripto escolhida
 ![Variação do valor da Cripto](https://github.com/user-attachments/assets/92bb7994-7414-4c67-902e-a24845360490)
 
-# 
+# Comparativo de preços e variações das criptos
 ![Dash Comparativo Solana e Bitocin Cash](https://github.com/user-attachments/assets/444a951a-8eb1-467a-8a96-de91eec0322e)
 
+#Dashboard da Clandestick
 ![Dash Clandestick](https://github.com/user-attachments/assets/79662bc0-7028-4386-ab3e-8fc335d48b6e)
 
 
