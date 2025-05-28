@@ -33,7 +33,7 @@ Os dados de preços e mercado das criptomoedas são obtidos através da **CoinGe
 - Criar uma aplicação web funcional e simples com Streamlit
 
 
-#Layout do Dashboard
+# Layout do Dashboard
 ![Layout Dash](https://github.com/user-attachments/assets/ab2405e8-9c14-4554-9543-d80eee7a5f94)
 # ![Variação do valor da Cripto](https://github.com/user-attachments/assets/92bb7994-7414-4c67-902e-a24845360490)
 # ![Dash Comparativo Solana e Bitocin Cash](https://github.com/user-attachments/assets/444a951a-8eb1-467a-8a96-de91eec0322e)
