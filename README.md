@@ -11,6 +11,12 @@ Este é um projeto pessoal desenvolvido com o objetivo de acompanhar, em tempo r
 - **API CoinGecko** – Fonte dos dados de mercado ([coingecko.com](https://www.coingecko.com/en/api))
 - **Caching com Streamlit** – Para otimizar performance e reduzir chamadas desnecessárias à API
 
+## Fonte dos Dados
+
+Os dados de preços e mercado das criptomoedas são obtidos através da **CoinGecko API**, uma API pública e gratuita para consulta de informações de criptoativos.
+
+🔗 Documentação oficial: [https://www.coingecko.com/en/api](https://www.coingecko.com/en/api)
+
 ##  Funcionalidades
 
 - Seleção de múltiplas criptomoedas (ex: Bitcoin, Ethereum, Solana, entre outras)
